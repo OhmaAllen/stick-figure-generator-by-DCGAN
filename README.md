@@ -1,1 +1,1 @@
-###A simple airplane stick figure generator using DCGAN model sturcture
+A simple airplane stick figure generator using DCGAN model sturcture
